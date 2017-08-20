@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "address":"0x205e55ad025c6e098d34971a39d36766065b9ee6",
+    "symbol":"1806",
+    "decimal":18,
+    "type":"default"
+  },
+  {
+    "address":"0x61fa5252dd22f46e66773dc20ad83094a7eb9f7d",
+    "symbol":"FRK",
+    "decimal":18,
+    "type":"default"
+  }
+ ]
